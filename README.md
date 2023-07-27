@@ -8,3 +8,8 @@ Quick start:
 $ npm install
 $ npm start
 ````
+
+
+OR use this URL to see deployed application:
+
+https://shoppinglist-app-example.netlify.app/
